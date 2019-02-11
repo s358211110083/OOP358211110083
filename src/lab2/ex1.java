@@ -24,7 +24,7 @@ public class ex1 {
         System.out.println(e);
 
         //string
-        String Str = "wassana Artpairin";
+        String Str = "narong nudeang";
         System.out.println(" My Name Is "+Str);
         System.out.println(Str.length());
         System.out.println(Str.toUpperCase());
